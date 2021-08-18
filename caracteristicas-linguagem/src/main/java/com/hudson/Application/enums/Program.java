@@ -11,6 +11,5 @@ public class Program {
         }
 
         System.out.println(Status.OPEN.getCod());
-        System.out.println("OIIIIIIIII");
     }
 }

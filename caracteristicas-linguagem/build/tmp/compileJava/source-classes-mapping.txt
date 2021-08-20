@@ -30,5 +30,9 @@ com/hudson/Application/enums/Program.java
  com.hudson.Application.enums.Program
 com/hudson/Application/Dates/Dates.java
  com.hudson.Application.Dates.Dates
+com/hudson/Application/Dates/CompareT.java
+ com.hudson.Application.Dates.CompareT
 com/hudson/Application/Dates/afterAndBefore.java
  com.hudson.Application.Dates.afterAndBefore
+com/hudson/Application/Dates/Instants.java
+ com.hudson.Application.Dates.Instants

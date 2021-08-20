@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6963c1ae-e63e-4051-95b5-ca941cd6e72e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caracteristicas-linguagem/src/main/java/com/hudson/Application/Dates/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caracteristicas-linguagem/src/main/java/com/hudson/Application/Dates/afterAndBefore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caracteristicas-linguagem/src/main/java/com/hudson/Application/Dates/CompareT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caracteristicas-linguagem/src/main/java/com/hudson/Application/Dates/Instants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/.idea/Dio_Cursos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/build/classes/java/main/com/hudson/Application/enums/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/build/classes/java/main/com/hudson/Application/enums/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/build/classes/java/main/com/hudson/Application/Dates/afterAndBefore.class" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/build/classes/java/main/com/hudson/Application/Dates/afterAndBefore.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caracteristicas-linguagem/src/main/java/com/hudson/Application/Dates/afterAndBefore.java" beforeDir="false" afterPath="$PROJECT_DIR$/caracteristicas-linguagem/src/main/java/com/hudson/Application/Dates/afterAndBefore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +63,35 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.afterAndBefore">
+  <component name="RunManager" selected="Application.Instants">
+    <configuration name="CompareT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hudson.Application.Dates.CompareT" />
+      <module name="caracteristicas-linguagem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudson.Application.Dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hudson.Application.Dates.Dates" />
+      <module name="caracteristicas-linguagem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudson.Application.Dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Instants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hudson.Application.Dates.Instants" />
       <module name="caracteristicas-linguagem.main" />
       <extension name="coverage">
         <pattern>
@@ -112,6 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Instants" />
+        <item itemvalue="Application.CompareT" />
         <item itemvalue="Application.afterAndBefore" />
         <item itemvalue="Application.Dates" />
       </list>

@@ -5,6 +5,7 @@ import java.util.Date;
 public class afterAndBefore {
 
     public static void main(String[] args){
+
         Date dateBefore = new Date(63040464000000L);
         Date dateAfter = new Date(94151575111111L);
 
@@ -12,6 +13,7 @@ public class afterAndBefore {
         System.out.println(isAfter);
         Boolean isBefore = dateAfter.after(dateBefore);
         System.out.println(isBefore);
-        
+        boolean resp =dateAfter.equals(dateBefore);
+        System.out.println(resp);
     }
 }

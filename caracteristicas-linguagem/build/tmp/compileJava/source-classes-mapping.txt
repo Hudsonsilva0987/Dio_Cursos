@@ -46,3 +46,11 @@ com/hudson/Application/Dates/DataFormatDate.java
  com.hudson.Application.Dates.DataFormatDate
 com/hudson/Application/Dates/ExercicioSimpleFormat.java
  com.hudson.Application.Dates.ExercicioSimpleFormat
+com/hudson/Application/Dates/LocalData.java
+ com.hudson.Application.Dates.LocalData
+com/hudson/Application/Dates/LocalTimes.java
+ com.hudson.Application.Dates.LocalTimes
+com/hudson/Application/Dates/LocalDateTimes.java
+ com.hudson.Application.Dates.LocalDateTimes
+com/hudson/Application/Dates/ExercicioLocalDateTime.java
+ com.hudson.Application.Dates.ExercicioLocalDateTime

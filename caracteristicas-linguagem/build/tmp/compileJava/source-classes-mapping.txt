@@ -40,3 +40,9 @@ com/hudson/Application/faces/Program.java
  com.hudson.Application.faces.Program
 com/hudson/Application/Dates/ExercicioDate.java
  com.hudson.Application.Dates.ExercicioDate
+com/hudson/Application/Dates/DateSimpleFormat.java
+ com.hudson.Application.Dates.DateSimpleFormat
+com/hudson/Application/Dates/DataFormatDate.java
+ com.hudson.Application.Dates.DataFormatDate
+com/hudson/Application/Dates/ExercicioSimpleFormat.java
+ com.hudson.Application.Dates.ExercicioSimpleFormat

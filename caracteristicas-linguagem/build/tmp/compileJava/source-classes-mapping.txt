@@ -1,13 +1,5 @@
 com/hudson/Application/Dates/Calenders.java
  com.hudson.Application.Dates.Calenders
-com/hudson/Application/abstracts/Program.java
- com.hudson.Application.abstracts.Program
-com/hudson/Application/Dates/afterAndBefore.java
- com.hudson.Application.Dates.afterAndBefore
-com/hudson/Application/enums/Status.java
- com.hudson.Application.enums.Status
-com/hudson/Application/Dates/Instants.java
- com.hudson.Application.Dates.Instants
 com/hudson/Application/enums/TipoVeiculo.java
  com.hudson.Application.enums.TipoVeiculo
 com/hudson/Application/abstracts/FormaGeometrica.java
@@ -16,41 +8,51 @@ com/hudson/Application/strings/BuilderString.java
  com.hudson.Application.strings.BuilderString
 com/hudson/Application/wrapppers/Program.java
  com.hudson.Application.wrapppers.Program
-com/hudson/Application/faces/Carro.java
- com.hudson.Application.faces.Carro
 com/hudson/Application/strings/FormatString.java
  com.hudson.Application.strings.FormatString
-com/hudson/Application/wrapppers/Wrappers.java
- com.hudson.Application.wrapppers.Wrappers
 com/hudson/Application/abstracts/Quadrado.java
  com.hudson.Application.abstracts.Quadrado
-com/hudson/Application/enums/Program.java
- com.hudson.Application.enums.Program
-com/hudson/Application/faces/Veiculo.java
- com.hudson.Application.faces.Veiculo
-com/hudson/Application/Dates/CompareT.java
- com.hudson.Application.Dates.CompareT
-com/hudson/Application/Dates/Dates.java
- com.hudson.Application.Dates.Dates
-com/hudson/Application/faces/Celta.java
- com.hudson.Application.faces.Celta
-com/hudson/Application/strings/Strings.java
- com.hudson.Application.strings.Strings
-com/hudson/Application/faces/Program.java
- com.hudson.Application.faces.Program
-com/hudson/Application/Dates/ExercicioDate.java
- com.hudson.Application.Dates.ExercicioDate
-com/hudson/Application/Dates/DateSimpleFormat.java
- com.hudson.Application.Dates.DateSimpleFormat
-com/hudson/Application/Dates/DataFormatDate.java
- com.hudson.Application.Dates.DataFormatDate
 com/hudson/Application/Dates/ExercicioSimpleFormat.java
  com.hudson.Application.Dates.ExercicioSimpleFormat
+com/hudson/Application/strings/Strings.java
+ com.hudson.Application.strings.Strings
+com/hudson/Application/faces/Veiculo.java
+ com.hudson.Application.faces.Veiculo
 com/hudson/Application/Dates/LocalData.java
  com.hudson.Application.Dates.LocalData
-com/hudson/Application/Dates/LocalTimes.java
- com.hudson.Application.Dates.LocalTimes
-com/hudson/Application/Dates/LocalDateTimes.java
- com.hudson.Application.Dates.LocalDateTimes
+com/hudson/Application/Dates/Dates.java
+ com.hudson.Application.Dates.Dates
+com/hudson/Application/Dates/ExercicioDate.java
+ com.hudson.Application.Dates.ExercicioDate
+com/hudson/Application/faces/Program.java
+ com.hudson.Application.faces.Program
+com/hudson/Application/faces/Celta.java
+ com.hudson.Application.faces.Celta
+com/hudson/Application/abstracts/Program.java
+ com.hudson.Application.abstracts.Program
+com/hudson/Application/Dates/afterAndBefore.java
+ com.hudson.Application.Dates.afterAndBefore
+com/hudson/Application/enums/Status.java
+ com.hudson.Application.enums.Status
+com/hudson/Application/Dates/Instants.java
+ com.hudson.Application.Dates.Instants
+com/hudson/Application/faces/Carro.java
+ com.hudson.Application.faces.Carro
 com/hudson/Application/Dates/ExercicioLocalDateTime.java
  com.hudson.Application.Dates.ExercicioLocalDateTime
+com/hudson/Application/wrapppers/Wrappers.java
+ com.hudson.Application.wrapppers.Wrappers
+com/hudson/Application/enums/Program.java
+ com.hudson.Application.enums.Program
+com/hudson/Application/Dates/LocalDateTimes.java
+ com.hudson.Application.Dates.LocalDateTimes
+com/hudson/Application/Dates/LocalTimes.java
+ com.hudson.Application.Dates.LocalTimes
+com/hudson/Application/Dates/DataFormatDate.java
+ com.hudson.Application.Dates.DataFormatDate
+com/hudson/Application/Dates/CompareT.java
+ com.hudson.Application.Dates.CompareT
+com/hudson/Application/Dates/DateSimpleFormat.java
+ com.hudson.Application.Dates.DateSimpleFormat
+com/hudson/Application/Erros/TryCatch.java
+ com.hudson.Application.Erros.TryCatch
